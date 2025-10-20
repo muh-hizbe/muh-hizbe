@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/muh-hizbe?tab=followers">
-    <img src="https://img.shields.io/github/followers/muh-hizbe?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/muh-hizbe?label=Followers&logo=GitHub&style=social" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/muh__hizbullah" class="twitter-follow-button">
-    <img src="https://img.shields.io/twitter/follow/muh__hizbullah?label=muh__hizbullah&logo=X&style=for-the-badge" alt="X badge" />
+  <a href="https://twitter.com/intent/follow?screen_name=muh__hizbullah" class="twitter-follow-button">
+    <img src="https://img.shields.io/twitter/follow/muh__hizbullah?label=muh__hizbullah&logo=X&style=social" alt="X badge" />
   </a>
 </p>
 
